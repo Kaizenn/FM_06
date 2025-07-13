@@ -18,7 +18,7 @@ export default function FeatureView() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
-        className="flex flex-col items-center justify-center px-10 py-14"
+        className="flex flex-col items-center justify-center px-10 py-24"
       >
         <div className="max-w-sm md:max-w-md">
           <h1 className="text-preset2 mb-4 text-center">
